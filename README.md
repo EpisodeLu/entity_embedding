@@ -10,3 +10,9 @@ Entity embedding using self-attention and pre-trained vectors
    
 ### Pre-trained vectors
    [fasttext](https://fasttext.cc/docs/en/pretrained-vectors.html)
+
+### Original data
+   [wainshine](https://github.com/wainshine)
+   
+### Prepare data
+   data_prep.ipynb
