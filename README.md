@@ -2,11 +2,11 @@
 Entity embedding using self-attention and pre-trained vectors
 
 
-## Trainig self-attention model
+### Trainig self-attention model
    run_selfAtt_model.py
 
-## Generate entity embedding
+### Generate entity embedding
    get_AttAndEmb.ipynb
    
-## Pre-trained vectors
+### Pre-trained vectors
    [fasttext](https://fasttext.cc/docs/en/pretrained-vectors.html)
